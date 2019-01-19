@@ -40,3 +40,6 @@ body{
     text-transform: uppercase;  
    
 }
+.container2{
+    display: none;
+}
